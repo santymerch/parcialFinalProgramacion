@@ -1,5 +1,3 @@
-Carlos Santiago Merchan Centeno
-
 Sistema de Apoyo al Inventario Forestal Nacional (IFN)
 
 Descripción
